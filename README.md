@@ -3,6 +3,7 @@
 Aplikasi berbasis Java Swing dan MySQL yang digunakan untuk manajemen reservasi pengisian SKS oleh mahasiswa dan admin kampus.
 
 ## 📂 Struktur Proyek
+```bash
 sistem_pengisi_sks/
 ├── .idea/ # Konfigurasi IntelliJ IDEA
 │ └── libraries/
@@ -17,6 +18,7 @@ sistem_pengisi_sks/
 │ ├── db_connection/ # Model dan koneksi database
 │ └── frame/ # Tampilan GUI (LoginFrame, MainFrame, AdminFrame)
 └── README.md # Dokumentasi proyek
+```
 
 ---
 
