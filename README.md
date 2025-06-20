@@ -3,8 +3,8 @@
 Aplikasi berbasis Java Swing dan MySQL yang digunakan untuk manajemen reservasi pengisian SKS oleh mahasiswa dan admin kampus.
 
 Screenshoot Aplikasi:
-![image](https://github.com/user-attachments/assets/f20986d1-4f37-477f-9a8d-78c681bc6295)
-![image](https://github.com/user-attachments/assets/c8708e2e-5791-4cc1-a780-ab784ee45b86)
+
+![image](https://github.com/user-attachments/assets/f20986d1-4f37-477f-9a8d-78c681bc6295) ![image](https://github.com/user-attachments/assets/c8708e2e-5791-4cc1-a780-ab784ee45b86)
 ![image](https://github.com/user-attachments/assets/af5ca699-746d-4eb0-a42d-3e985ed75e10)
 ![image](https://github.com/user-attachments/assets/f728b965-4d94-44b2-974c-67c91d4b6813)
 ![image](https://github.com/user-attachments/assets/76e29da0-b576-44a3-8358-c16f83557236)
